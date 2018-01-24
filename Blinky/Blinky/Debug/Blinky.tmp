@@ -23,9 +23,9 @@
  </OUTPUT_FILES>
  <LABELS>
   <loop><FILE>E:\EmbeddedSystems\es-1\Blinky\Blinky\main.asm</FILE><LINE>23</LINE></loop>
-  <delay_long><FILE>E:\EmbeddedSystems\es-1\Blinky\Blinky\main.asm</FILE><LINE>34</LINE></delay_long>
-  <d1><FILE>E:\EmbeddedSystems\es-1\Blinky\Blinky\main.asm</FILE><LINE>36</LINE></d1>
-  <d2><FILE>E:\EmbeddedSystems\es-1\Blinky\Blinky\main.asm</FILE><LINE>37</LINE></d2>
-  <d3><FILE>E:\EmbeddedSystems\es-1\Blinky\Blinky\main.asm</FILE><LINE>38</LINE></d3>
+  <delay_long><FILE>E:\EmbeddedSystems\es-1\Blinky\Blinky\main.asm</FILE><LINE>40</LINE></delay_long>
+  <d1><FILE>E:\EmbeddedSystems\es-1\Blinky\Blinky\main.asm</FILE><LINE>42</LINE></d1>
+  <d2><FILE>E:\EmbeddedSystems\es-1\Blinky\Blinky\main.asm</FILE><LINE>43</LINE></d2>
+  <d3><FILE>E:\EmbeddedSystems\es-1\Blinky\Blinky\main.asm</FILE><LINE>44</LINE></d3>
  </LABELS>
 </ASSEMBLER_INFO>
